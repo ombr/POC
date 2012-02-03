@@ -1,0 +1,12 @@
+{% extends "layout.twig" %}
+{% block body %}
+
+{% set user = app.MultiAuth.login() %}
+<h2>Social Network linked :</h2>
+<ul>
+{% for p in user.getProviders() %}
+<li>{{p.getId()}} - {{ p.getProviderId() }} unlink</li>
+{% endfor %}
+</ul>
+
+{% endblock %}

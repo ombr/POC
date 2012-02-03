@@ -1,0 +1,30 @@
+[submodule "lib/silex"]
+	path = lib/silex
+	url = https://github.com/fabpot/Silex.git
+[submodule "lib/twitterbootstrap"]
+	path = lib/twitterbootstrap
+	url = https://github.com/twitter/bootstrap.git
+[submodule "lib/coffee-script"]
+	path = lib/coffee-script
+	url = https://github.com/jashkenas/coffee-script.git
+[submodule "lib/less"]
+	path = lib/less
+	url = https://github.com/cloudhead/less.js.git
+[submodule "lib/multiauth"]
+	path = lib/multiauth
+	url = https://ombr@github.com/ombr/MultiAuth.git
+[submodule "lib/silexextentions"]
+	path = lib/silexextentions
+	url = https://github.com/docteurklein/SilexExtensions.git
+[submodule "lib/doctrine"]
+	path = lib/doctrine
+	url = https://github.com/doctrine/doctrine2.git
+[submodule "lib/MultiAuth"]
+	path = lib/MultiAuth
+	url = https://ombr@github.com/ombr/MultiAuth.git
+[submodule "lib/dojo"]
+	path = lib/dojo
+	url = https://github.com/dojo/dojo.git
+[submodule "lib/jquery"]
+	path = lib/jquery
+	url = https://github.com/jquery/jquery.git
